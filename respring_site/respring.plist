@@ -10,7 +10,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://github.com/InsightfulEthics/InsightfulEthics.github.io/raw/master/crashtst/crashtst.ipa</string>
+<string>https://raw.githubusercontent.com/cambgiles/respring-project/master/respring_app/respring.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -18,7 +18,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://github.com/InsightfulEthics/InsightfulEthics.github.io/raw/master/crashtst/crashtst.png</string>
+<string>https://raw.githubusercontent.com/cambgiles/respring-project/master/respring_app/app-icon.png</string>
 </dict>
 </array>
 <key>metadata</key>
