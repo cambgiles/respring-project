@@ -42,5 +42,5 @@ respring-project allows users of iOS (Apple Inc. moblile software) to respring (
 * iPod touch 6th generation - `UNKOWN`
 ### PROJECT CREDITS
 * respring.ipa and app-icon.png created by http://github.com/InsightfulEthics
-* respring.plist created by https://github.com/InsightfulEthics and edited by http://github.com/cambgiles
+* respring.plist created by http://github.com/InsightfulEthics and edited by http://github.com/cambgiles
 * respring.mobileconfig created by http://github.com/cambgiles and signed by http://github.com/cambgiles
